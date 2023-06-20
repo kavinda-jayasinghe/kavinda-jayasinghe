@@ -1,5 +1,5 @@
 ## Kavinda Jayasinghe
-Undergraduate of the Department of Computer Science and Statistics faculty of Science, Unversity of Peradeniya.
+Undergraduate of the Department of Computer Science and Statistics faculty of Science, Unversity of Peradeniya. 
 
 For more information check my resume from [here](https://drive.google.com/file/d/1bjrmqJsHZJy9wmusSMPUw2RGnlfjQKiu/view?usp=sharing).
 
