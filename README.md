@@ -38,16 +38,10 @@ my web [here](https://kavinda-jayasinghe.github.io/).
       <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
       <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
       <a href="#"><img alt="Intellj Idea" src="https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellij-idea&logoColor=white"></a>
-      <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-      
-   
+      <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a> 
   </p>
 
-<a href="https://linkedin.com/in/kavinda-jayasinghe-pdn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavinda-jayasinghe-pdn" height="30" width="40" /></a>
-<a href="https://instagram.com/kavinda__jayasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kavinda__jayasinghe" height="30" width="40" /></a>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kavinda-jayasinghe&theme=dark)](https://git.io/streak-stats)
-
-
-
-
+ <h3>💻 GitHub Profile Stats</h3>
+   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Kavinda Jayasinghe's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=kavinda-jayasinghe&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=0097B2&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Kavinda Jayasinghe's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=kavinda-jayasinghe&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=0097B2&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>
