@@ -17,7 +17,7 @@ my web [here](https://kavinda-jayasinghe.github.io/).
  <h3>🧰 Frameworks and Libraries</h3>
 
   <p>
-<a href="#"><img alt="React" src="[https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white)"></a>
+<a href="#"><img alt="spring boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white"></a>
    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
 
  </p>
