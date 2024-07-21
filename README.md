@@ -18,6 +18,7 @@ my web [here](https://kavinda-jayasinghe.github.io/).
 
   <p>
 <a href="#"><img alt="spring boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white"></a>
+    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white"></a>
    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
 
  </p>
