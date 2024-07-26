@@ -2,9 +2,9 @@
 
 Undergraduate of the Department of Computer Science and Statistics Faculty of Science, Unversity of Peradeniya. 
 
-For more information check my resume from [here](https://drive.google.com/drive/folders/1I3JpwNS3Gsatt86FWpUgNeGLwA8Rj65R?usp=sharing).
+For more Information Check My Resume From [here](https://drive.google.com/drive/folders/1I3JpwNS3Gsatt86FWpUgNeGLwA8Rj65R?usp=sharing).
 
-My Web [here](https://kavinda-jayasinghe.github.io/).
+My Web [Here](https://kavinda-jayasinghe.github.io/).
 
  <h3>👨‍💻 Programming and Markup Languages</h3>
 
