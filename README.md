@@ -1,6 +1,6 @@
 <h1 align="center" style="font-weight:bold;">Hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Kavinda Jayasinghe  <img src="https://emojis.slackmojis.com/emojis/images/1643515038/10677/among_us.png?1643515038" width="28"/></h1>
 
-Undergraduate of the Department of Computer Science and Statistics Faculty of Science, Unversity of Peradeniya. 
+Software Engineer and Graduate of the Department of Computer Science and Statistics Faculty of Science, Unversity of Peradeniya.
 
 For more Information Check My Resume From [here](https://drive.google.com/drive/folders/1I3JpwNS3Gsatt86FWpUgNeGLwA8Rj65R?usp=sharing).
 
